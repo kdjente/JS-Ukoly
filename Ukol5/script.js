@@ -18,5 +18,7 @@ const procento = 15
 
 console.log(taxed(castka, procento))
 
+//console.log(salary(wage, hours, days) - taxed(castka, procento))
+
 
 
